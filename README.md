@@ -16,13 +16,13 @@
 ```bash
 evan@egaxdev:~$ whoami
 
-  > Evan Rasyid Ega Pratama
-  > role      : Fullstack Engineer & Creative Developer
-  > studio    : EGAXDEV Studios
-  > base      : Depok, Jawa Barat, Indonesia
-  > building  : Fragmen (experimental portfolio, R3F + GSAP)
-  > building  : invoicegua (React -> Flutter APK)
-  > status    : 3 tabs open, localhost running, coffee low
+  Evan Rasyid Ega Pratama
+  role      : Fullstack Engineer & Creative Developer
+  studio    : EGAXDEV Studios
+  base      : Depok, Jawa Barat, Indonesia
+  building  : Fragmen (experimental portfolio, R3F + GSAP)
+  building  : invoicegua (React -> Flutter APK)
+  status    : 3 tabs open, localhost running, coffee low
 
 evan@egaxdev:~$ _
 ```
