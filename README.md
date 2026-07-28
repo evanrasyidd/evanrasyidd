@@ -13,6 +13,24 @@
 
 <br/>
 
+```bash
+evan@egaxdev:~$ whoami
+
+  > Evan Rasyid Ega Pratama
+  > role      : Fullstack Engineer & Creative Developer
+  > studio    : EGAXDEV Studios
+  > base      : Depok, Jawa Barat, Indonesia
+  > building  : Fragmen (experimental portfolio, R3F + GSAP)
+  > building  : invoicegua (React -> Flutter APK)
+  > status    : 3 tabs open, localhost running, coffee low
+
+evan@egaxdev:~$ _
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF6B4A&height=3&section=header" width="70%" />
+</div>
+
 ## <img src="https://img.shields.io/badge/-01-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Siapa Gua
 
 Fullstack engineer & creative developer dari Depok, jalan di bawah **EGAXDEV Studios**. Kerjaannya bikin website dan app yang nggak keliatan kayak template — dari landing page, e-commerce, sampai portfolio interaktif pakai 3D.
@@ -23,7 +41,9 @@ Lagi sibuk sama dua project:
 
 Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
+</div>
 
 ## <img src="https://img.shields.io/badge/-02-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Senjata Yang Dipake
 
@@ -45,7 +65,9 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
+</div>
 
 ## <img src="https://img.shields.io/badge/-03-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Ular Kontribusi
 
@@ -55,7 +77,9 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 <sub align="center">animasi ini butuh setup sekali lewat GitHub Action — file workflow-nya udah gua siapin terpisah, tinggal taruh di <code>.github/workflows/snake.yml</code></sub>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
+</div>
 
 <div align="center">
 
