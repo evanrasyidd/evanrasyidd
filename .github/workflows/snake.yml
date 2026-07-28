@@ -21,8 +21,8 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-          color_snake: FF6B4A
-          color_dots: 1A1A2E,2EC4B6,FFD23F,6A4C93,FF6B4A
+          color_snake: 6A4C93
+          color_dots: 1A1A2E,2EC4B6,FFD23F,6A4C93
 
       - name: Push ke branch output
         uses: crazy-max/ghaction-github-pages@v4
