@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=200&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=36&fontColor=1A1A2E&fontAlignY=35&desc=Fullstack%20Engineer%20%26%20Creative%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=200&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=36&fontColor=1A1A2E&fontAlignY=35&desc=Fullstack%20Engineer%20and%20Creative%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=700&color=2EC4B6&center=true&vCenter=true&width=650&lines=Ngoding+sambil+ngobrol+sama+diri+sendiri.;Next.js+%2B+React+%2B+Three.js+%2B+Flutter.;Kalau+error+merah%2C+berarti+lagi+seru.;Based+in+Depok%2C+Indonesia." alt="typing-svg" />
 
@@ -47,45 +47,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-03-FFD23F?style=flat-square&labelColor=1A1A2E" height="22"/> Angka-Angka
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=FF6B4A&icon_color=2EC4B6&text_color=E8E8E8&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=FF6B4A&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" width="42%" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=FF6B4A&point=FFD23F&area_color=2EC4B6&area=true&hide_border=true" width="92%" />
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-04-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Yang Paling Dibanggain
-
-<div align="center">
-<a href="https://github.com/evanrasyidd/egaxdev-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=evanrasyidd&repo=egaxdev-portfolio&bg_color=1A1A2E&title_color=FF6B4A&icon_color=2EC4B6&text_color=E8E8E8&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/evanrasyidd/fragmen">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=evanrasyidd&repo=fragmen&bg_color=1A1A2E&title_color=FFD23F&icon_color=6A4C93&text_color=E8E8E8&hide_border=true" width="48%" />
-</a>
-</div>
-
-<sub align="center">ganti nama repo di URL kalau slug repo aslinya beda dari yang gua tebak</sub>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-05-6A4C93?style=flat-square&labelColor=1A1A2E" height="22"/> Koleksi Trofi
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=evanrasyidd&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="90%" />
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-06-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Ular Kontribusi
+## <img src="https://img.shields.io/badge/-03-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Ular Kontribusi
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
@@ -97,7 +59,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/-07-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Colek Gua
+## <img src="https://img.shields.io/badge/-04-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Colek Gua
 
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFD23F)](https://github.com/evanrasyidd)
 [![Instagram](https://img.shields.io/badge/Instagram-1A1A2E?style=for-the-badge&logo=instagram&logoColor=FF6B4A)](https://instagram.com/evanrasyidd)
