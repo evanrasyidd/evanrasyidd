@@ -1,86 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A574&height=180&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=38&fontColor=1C1B19&fontAlignY=55&desc=Frontend%20Engineer%20%E2%80%94%20EGAXDEV%20Studios&descAlignY=75&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=200&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=36&fontColor=1A1A2E&fontAlignY=35&desc=Fullstack%20Engineer%20%26%20Creative%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=700&color=2EC4B6&center=true&vCenter=true&width=650&lines=Ngoding+sambil+ngobrol+sama+diri+sendiri.;Next.js+%2B+React+%2B+Three.js+%2B+Flutter.;Kalau+error+merah%2C+berarti+lagi+seru.;Based+in+Depok%2C+Indonesia." alt="typing-svg" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=800&color=8C5A3C&center=true&vCenter=true&width=600&lines=Bikin+website+yang+kerasa+dikerjain+tangan%2C+bukan+prompt.;Next.js+%2B+React+%2B+Three.js+%2B+kopi+basi.;Depok%2C+Jawa+Barat%2C+Indonesia." alt="typing-svg" />
+![Profile Views](https://komarev.com/ghpvc/?username=evanrasyidd&color=FFD23F&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/evanrasyidd?style=for-the-badge&color=2EC4B6&labelColor=1A1A2E)
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## <img src="https://img.shields.io/badge/-01-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Siapa Gua
 
-### § TENTANG
+Fullstack engineer & creative developer dari Depok, jalan di bawah **EGAXDEV Studios**. Kerjaannya bikin website dan app yang nggak keliatan kayak template — dari landing page, e-commerce, sampai portfolio interaktif pakai 3D.
 
-Frontend developer otodidak dari Depok, jalan di bawah bendera **EGAXDEV Studios**. Kerjaan sehari-hari: bikin portfolio-grade sites, toko online, sampai landing page agency — dari nol sampai naik ke Vercel.
+Lagi sibuk sama dua project:
+- **Fragmen** — portfolio eksperimental level Awwwards, scroll-driven motion, 3D procedural tanpa aset import
+- **invoicegua** — app manajemen invoice, lagi dipindah dari React web jadi APK Flutter
 
-Nggak ngejar tren yang lagi rame. Lebih suka sesuatu yang kepegang tangan sendiri: motion yang niat, layout yang punya karakter, dan detail kecil yang orang lain males ngerjain.
-
-**Yang lagi digarap:**
-- `Fragmen` — portfolio eksperimental, scroll-driven, R3F murni tanpa aset import
-- `invoicegua` — app invoice React dipindah jadi APK Flutter
-
-</td>
-<td width="40%" valign="top">
-
-### § CATATAN KAKI
-
-```
-Lokasi   : Depok, ID
-Fokus    : Web & Mobile
-Status   : selalu ada 3 tab
-           localhost kebuka
-Kopi     : abis, lagi diseduh ulang
-```
-
-</td>
-</tr>
-</table>
+Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
 
 <br/>
 
-### § PERKAKAS DI MEJA
+## <img src="https://img.shields.io/badge/-02-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Senjata Yang Dipake
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-1C1B19?style=flat-square&logo=nextdotjs&logoColor=D4A574)
-![React](https://img.shields.io/badge/React-1C1B19?style=flat-square&logo=react&logoColor=8C5A3C)
-![TypeScript](https://img.shields.io/badge/TypeScript-1C1B19?style=flat-square&logo=typescript&logoColor=D4A574)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1C1B19?style=flat-square&logo=tailwindcss&logoColor=8C5A3C)
-![Three.js](https://img.shields.io/badge/Three.js-1C1B19?style=flat-square&logo=threedotjs&logoColor=D4A574)
-![GSAP](https://img.shields.io/badge/GSAP-1C1B19?style=flat-square&logo=greensock&logoColor=8C5A3C)
-![Flutter](https://img.shields.io/badge/Flutter-1C1B19?style=flat-square&logo=flutter&logoColor=D4A574)
-![Supabase](https://img.shields.io/badge/Supabase-1C1B19?style=flat-square&logo=supabase&logoColor=8C5A3C)
-![Vercel](https://img.shields.io/badge/Vercel-1C1B19?style=flat-square&logo=vercel&logoColor=D4A574)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A2E?style=for-the-badge&logo=nextdotjs&logoColor=FF6B4A)
+![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=2EC4B6)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A2E?style=for-the-badge&logo=typescript&logoColor=FFD23F)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1A1A2E?style=for-the-badge&logo=tailwindcss&logoColor=6A4C93)
+![Three.js](https://img.shields.io/badge/Three.js-1A1A2E?style=for-the-badge&logo=threedotjs&logoColor=FF6B4A)
+![GSAP](https://img.shields.io/badge/GSAP-1A1A2E?style=for-the-badge&logo=greensock&logoColor=2EC4B6)
+![Flutter](https://img.shields.io/badge/Flutter-1A1A2E?style=for-the-badge&logo=flutter&logoColor=FFD23F)
+![Supabase](https://img.shields.io/badge/Supabase-1A1A2E?style=for-the-badge&logo=supabase&logoColor=6A4C93)
+![Vercel](https://img.shields.io/badge/Vercel-1A1A2E?style=for-the-badge&logo=vercel&logoColor=FF6B4A)
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter,supabase,figma,vercel,git&theme=dark" />
 
 </div>
 
 <br/>
 
-### § REKAM JEJAK
+## <img src="https://img.shields.io/badge/-03-FFD23F?style=flat-square&labelColor=1A1A2E" height="22"/> Angka-Angka
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1C1B19&title_color=D4A574&icon_color=8C5A3C&text_color=E8DCC8&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanrasyidd&layout=compact&hide_border=true&bg_color=1C1B19&title_color=D4A574&text_color=E8DCC8&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=FF6B4A&icon_color=2EC4B6&text_color=E8E8E8&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=FF6B4A&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" width="42%" />
 </div>
 
 <br/>
 
 <div align="center">
-
-### § MEJA SURAT
-
-[![GitHub](https://img.shields.io/badge/GitHub-1C1B19?style=for-the-badge&logo=github&logoColor=D4A574)](https://github.com/evanrasyidd)
-[![Instagram](https://img.shields.io/badge/Instagram-1C1B19?style=for-the-badge&logo=instagram&logoColor=8C5A3C)](https://instagram.com/evanrasyidd)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=FF6B4A&point=FFD23F&area_color=2EC4B6&area=true&hide_border=true" width="92%" />
+</div>
 
 <br/>
 
-<sub>dirakit tangan oleh Evan Rasyid Ega Pratama — tanpa gradient, tanpa basa-basi</sub>
+## <img src="https://img.shields.io/badge/-04-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Yang Paling Dibanggain
+
+<div align="center">
+<a href="https://github.com/evanrasyidd/egaxdev-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=evanrasyidd&repo=egaxdev-portfolio&bg_color=1A1A2E&title_color=FF6B4A&icon_color=2EC4B6&text_color=E8E8E8&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/evanrasyidd/fragmen">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=evanrasyidd&repo=fragmen&bg_color=1A1A2E&title_color=FFD23F&icon_color=6A4C93&text_color=E8E8E8&hide_border=true" width="48%" />
+</a>
+</div>
+
+<sub align="center">ganti nama repo di URL kalau slug repo aslinya beda dari yang gua tebak</sub>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-05-6A4C93?style=flat-square&labelColor=1A1A2E" height="22"/> Koleksi Trofi
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=evanrasyidd&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="90%" />
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-06-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Ular Kontribusi
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
+</div>
+
+<sub align="center">animasi ini butuh setup sekali lewat GitHub Action — file workflow-nya udah gua siapin terpisah, tinggal taruh di <code>.github/workflows/snake.yml</code></sub>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/-07-FF6B4A?style=flat-square&labelColor=1A1A2E" height="22"/> Colek Gua
+
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFD23F)](https://github.com/evanrasyidd)
+[![Instagram](https://img.shields.io/badge/Instagram-1A1A2E?style=for-the-badge&logo=instagram&logoColor=FF6B4A)](https://instagram.com/evanrasyidd)
+
+<br/>
+<sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A574&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=100&section=footer" width="100%" />
