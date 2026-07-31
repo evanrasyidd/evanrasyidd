@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/assets/banner.svg" width="100%" alt="EVAN RASYID EGA PRATAMA - fullstack engineer and creative developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A4C93&height=200&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=36&fontColor=1A1A2E&fontAlignY=35&desc=Fullstack%20Engineer%20and%20Creative%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=700&color=2EC4B6&center=true&vCenter=true&width=650&lines=Ngoding+sambil+ngobrol+sama+diri+sendiri.;Next.js+%2B+React+%2B+Three.js+%2B+Flutter.;Kalau+error+merah%2C+berarti+lagi+seru.;Based+in+Depok%2C+Indonesia." alt="typing-svg" />
 
@@ -14,21 +14,19 @@
 <br/>
 
 ```bash
-evan@egaxdev:~$ whoami
+evan@localhost:~$ whoami
 
   Evan Rasyid Ega Pratama
   role    : Fullstack Engineer & Creative Developer
-  studio  : EGAXDEV Studios
   base    : Depok, Jawa Barat, Indonesia
 
-evan@egaxdev:~$ cat ./papan-project
-  fragmen/     in progress — R3F + GSAP, scroll-driven motion
+evan@localhost:~$ cat ./papan-project
   invoicegua/  migration — React web -> APK Flutter
 
-evan@egaxdev:~$ status
+evan@localhost:~$ status
   3 tabs open  ·  localhost running  ·  coffee low
 
-evan@egaxdev:~$ _
+evan@localhost:~$ _
 ```
 
 <div align="center">
@@ -37,7 +35,7 @@ evan@egaxdev:~$ _
 
 ## `~ $ cat ./about`
 
-Fullstack engineer & creative developer dari Depok, jalan di bawah **EGAXDEV Studios**. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
+Fullstack engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
 
 Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
 
@@ -51,7 +49,6 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 | project | status | stack |
 |---|---|---|
-| [Fragmen](https://github.com/evanrasyidd/fragmen) | `in progress` | R3F · GSAP · Three.js |
 | [invoicegua](https://github.com/evanrasyidd/invoicegua) | `migration` | React web → Flutter APK |
 
 </div>
@@ -134,7 +131,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <br/>
 
 <div align="center">
-<sub><code>evan@egaxdev:~$ logout</code></sub>
+<sub><code>evan@localhost:~$ logout</code></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A4C93&height=100&section=footer" width="100%" />
