@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A4C93&height=200&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=36&fontColor=1A1A2E&fontAlignY=35&desc=Fullstack%20Engineer%20and%20Creative%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/assets/banner.svg" width="100%" alt="EVAN RASYID EGA PRATAMA - fullstack engineer and creative developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=700&color=2EC4B6&center=true&vCenter=true&width=650&lines=Ngoding+sambil+ngobrol+sama+diri+sendiri.;Next.js+%2B+React+%2B+Three.js+%2B+Flutter.;Kalau+error+merah%2C+berarti+lagi+seru.;Based+in+Depok%2C+Indonesia." alt="typing-svg" />
 
@@ -17,12 +17,16 @@
 evan@egaxdev:~$ whoami
 
   Evan Rasyid Ega Pratama
-  role      : Fullstack Engineer & Creative Developer
-  studio    : EGAXDEV Studios
-  base      : Depok, Jawa Barat, Indonesia
-  building  : Fragmen (experimental portfolio, R3F + GSAP)
-  building  : invoicegua (React -> Flutter APK)
-  status    : 3 tabs open, localhost running, coffee low
+  role    : Fullstack Engineer & Creative Developer
+  studio  : EGAXDEV Studios
+  base    : Depok, Jawa Barat, Indonesia
+
+evan@egaxdev:~$ cat ./papan-project
+  fragmen/     in progress — R3F + GSAP, scroll-driven motion
+  invoicegua/  migration — React web -> APK Flutter
+
+evan@egaxdev:~$ status
+  3 tabs open  ·  localhost running  ·  coffee low
 
 evan@egaxdev:~$ _
 ```
@@ -31,13 +35,9 @@ evan@egaxdev:~$ _
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
 </div>
 
-## <img src="https://img.shields.io/badge/-01-6A4C93?style=flat-square&labelColor=1A1A2E" height="22"/> Siapa Gua
+## `~ $ cat ./about`
 
-Fullstack engineer & creative developer dari Depok, jalan di bawah **EGAXDEV Studios**. Kerjaannya bikin website dan app yang nggak keliatan kayak template — dari landing page, e-commerce, sampai portfolio interaktif pakai 3D.
-
-Lagi sibuk sama dua project:
-- **Fragmen** — portfolio eksperimental level Awwwards, scroll-driven motion, 3D procedural tanpa aset import
-- **invoicegua** — app manajemen invoice, lagi dipindah dari React web jadi APK Flutter
+Fullstack engineer & creative developer dari Depok, jalan di bawah **EGAXDEV Studios**. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
 
 Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
 
@@ -45,7 +45,24 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
 </div>
 
-## <img src="https://img.shields.io/badge/-02-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Senjata Yang Dipake
+## `~ $ cat ./papan-project`
+
+<div align="center">
+
+| project | status | stack |
+|---|---|---|
+| [Fragmen](https://github.com/evanrasyidd/fragmen) | `in progress` | R3F · GSAP · Three.js |
+| [invoicegua](https://github.com/evanrasyidd/invoicegua) | `migration` | React web → Flutter APK |
+
+</div>
+
+<sub align="center">slug repo beda dari tebakan gua? tinggal edit linknya</sub>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
+</div>
+
+## `~ $ ls ~/arsenal`
 
 <div align="center">
 
@@ -66,24 +83,45 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
-</div>
-
-## <img src="https://img.shields.io/badge/-03-2EC4B6?style=flat-square&labelColor=1A1A2E" height="22"/> Ular Kontribusi
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
-</div>
-
-<sub align="center">animasi ini butuh setup sekali lewat GitHub Action — file workflow-nya udah gua siapin terpisah, tinggal taruh di <code>.github/workflows/snake.yml</code></sub>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
 </div>
 
+## `~ $ gh stats`
+
 <div align="center">
 
-## <img src="https://img.shields.io/badge/-04-6A4C93?style=flat-square&labelColor=1A1A2E" height="22"/> Colek Gua
+<img src="https://streak-stats.demolab.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=6A4C93&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" alt="streak kontribusi" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=2EC4B6&point=FFD23F&area_color=6A4C93&area=true&hide_border=true&height=280&hide_title=true" alt="grafik aktivitas" width="92%" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
+</div>
+
+## `~ $ ./snake --play`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake-dark.svg" />
+  <img alt="ular kontribusi" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
+</picture>
+
+</div>
+
+<sub align="center">digenerate otomatis tiap hari jam 00:00 UTC via GitHub Action — workflow-nya di `.github/workflows/snake.yml`</sub>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
+</div>
+
+## `~ $ ssh evan@contact`
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFD23F)](https://github.com/evanrasyidd)
 [![Instagram](https://img.shields.io/badge/Instagram-1A1A2E?style=for-the-badge&logo=instagram&logoColor=6A4C93)](https://instagram.com/evanrasyidd)
@@ -91,6 +129,12 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <br/>
 <sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template</sub>
 
+</div>
+
+<br/>
+
+<div align="center">
+<sub><code>evan@egaxdev:~$ logout</code></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A4C93&height=100&section=footer" width="100%" />
