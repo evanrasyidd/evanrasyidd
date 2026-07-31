@@ -116,6 +116,60 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
 </div>
 
+## `~ $ ./buka-bukaan`
+
+<details>
+<summary>kenapa bikin profile README pakai bahasa Indonesia?</summary>
+<br/>
+
+karena yang buka juga orang Indonesia. English profile udah rame di mana-mana.
+
+</details>
+
+<details>
+<summary>error favorit apa?</summary>
+<br/>
+
+semua error merah itu seru. yang nyebelin justru yang diam-diam, nggak muncul pesannya.
+
+</details>
+
+<details>
+<summary>tips buat yang baru mulai ngoding?</summary>
+<br/>
+
+baca error-nya dulu. kebanyakan error udah ngasih tau masalahnya — lu aja yang gak baca.
+
+</details>
+
+<details>
+<summary>kapan paling produktif?</summary>
+<br/>
+
+pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint.
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
+</div>
+
+## `~ $ ./lagu-lagi-muter`
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&cover_image=true&theme=default&show_offline=false&background_color=1A1A2E&bar_color=2EC4B6&border_radius=10&interchange=false&profanity=false&hide_remaster=false" alt="lagu yang lagi diputar" />
+</a>
+
+</div>
+
+<sub align="center">live dari Spotify — klik card-nya buat liat lagu lengkapnya</sub>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
+</div>
+
 ## `~ $ ssh evan@contact`
 
 <div align="center">
