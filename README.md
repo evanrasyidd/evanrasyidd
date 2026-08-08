@@ -13,20 +13,14 @@
 
 <br/>
 
-```bash
-evan@localhost:~$ whoami
-
-  Evan Rasyid Ega Pratama
-  role    : Fullstack Engineer & Creative Developer
-  base    : Depok, Jawa Barat, Indonesia
-
-evan@localhost:~$ cat ./papan-project
-  invoicegua/  migration — React web -> APK Flutter
-
-evan@localhost:~$ status
-  3 tabs open  ·  localhost running  ·  coffee low
-
-evan@localhost:~$ _
+```
+  ______        evan@github
+ |  ____|       ------------
+ | |__          OS      : Indonesia Human v3.1 (Depok Edition)
+ |  __|         Shell   : bash — merah = seru, diam = bahaya
+ | |____        Editor  : VS Code + 14 plugin nganggur
+ |______|       Stack   : Next.js · React · Three.js · Flutter
+                Status  : 3 tab open · coffee low · lokal jalan
 ```
 
 <div align="center">
@@ -43,17 +37,25 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
 </div>
 
-## `~ $ cat ./papan-project`
+## `~ $ gh stats`
 
 <div align="center">
 
-| project | status | stack |
-|---|---|---|
-| [invoicegua](https://github.com/evanrasyidd/invoicegua) | `migration` | React web → Flutter APK |
+<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=FFD23F&icon_color=2EC4B6&text_color=E8E8E8&border_radius=10" alt="statistik github" width="44%" />
+
+<img src="https://streak-stats.demolab.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=6A4C93&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" alt="streak kontribusi" width="44%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanrasyidd&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=FFD23F&text_color=E8E8E8&border_radius=10" alt="bahasa yang paling sering kepake" width="36%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=2EC4B6&point=FFD23F&area_color=6A4C93&area=true&hide_border=true&height=280&hide_title=true" alt="grafik aktivitas" width="92%" />
 
 </div>
 
-<sub align="center">slug repo beda dari tebakan gua? tinggal edit linknya</sub>
+<sub align="center">angka real-time dari GitHub — dihitung server, bukan dikarang.</sub>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
@@ -83,20 +85,20 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
 </div>
 
-## `~ $ gh stats`
+## `~ $ cat ./papan-project`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=6A4C93&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" alt="streak kontribusi" width="42%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=2EC4B6&point=FFD23F&area_color=6A4C93&area=true&hide_border=true&height=280&hide_title=true" alt="grafik aktivitas" width="92%" />
+| project | status | stack |
+|---|---|---|
+| [invoicegua](https://github.com/evanrasyidd/invoicegua-mvp) | `migration` | React web → Flutter APK |
 
 </div>
 
+<sub align="center">slug repo beda dari tebakan gua? tinggal edit linknya</sub>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
 </div>
 
 ## `~ $ ./snake --play`
@@ -113,7 +115,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <sub align="center">digenerate otomatis tiap hari jam 00:00 UTC via GitHub Action — workflow-nya di `.github/workflows/snake.yml`</sub>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=2EC4B6&height=3&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
 </div>
 
 ## `~ $ ./buka-bukaan`
@@ -151,7 +153,7 @@ pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
 </div>
 
 ## `~ $ ./lagu-lagi-muter`
@@ -167,7 +169,7 @@ pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint
 <sub align="center">live dari Spotify — klik card-nya buat liat lagu lengkapnya</sub>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
 </div>
 
 ## `~ $ ssh evan@contact`
@@ -176,6 +178,8 @@ pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint
 
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFD23F)](https://github.com/evanrasyidd)
 [![Instagram](https://img.shields.io/badge/Instagram-1A1A2E?style=for-the-badge&logo=instagram&logoColor=6A4C93)](https://instagram.com/evanrasyidd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=2EC4B6)](https://www.linkedin.com/in/evanrasyidd)
+[![Website](https://img.shields.io/badge/egaxdev-1A1A2E?style=for-the-badge&logo=globe&logoColor=6A4C93)](https://egaxdev.vercel.app/)
 
 <br/>
 <sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template</sub>
