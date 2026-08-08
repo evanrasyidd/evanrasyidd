@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A4C93&height=200&section=header&text=EVAN%20RASYID%20EGA%20PRATAMA&fontSize=36&fontColor=1A1A2E&fontAlignY=35&desc=Fullstack%20Engineer%20and%20Creative%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/header.svg" width="100%" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=700&color=2EC4B6&center=true&vCenter=true&width=650&lines=Ngoding+sambil+ngobrol+sama+diri+sendiri.;Next.js+%2B+React+%2B+Three.js+%2B+Flutter.;Kalau+error+merah%2C+berarti+lagi+seru.;Based+in+Depok%2C+Indonesia." alt="typing-svg" />
 
@@ -56,6 +58,23 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 </div>
 
 <sub align="center">angka real-time dari GitHub — dihitung server, bukan dikarang.</sub>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
+</div>
+
+## `~ $ ./topografi`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-night-green.svg" />
+  <img alt="grafik kontribusi 3D" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-season.svg" width="90%" />
+</picture>
+
+</div>
+
+<sub align="center">kontribusi digambar ulang tiap hari via GitHub Action — bisa dipicu manual dari tab Actions</sub>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
