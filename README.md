@@ -80,25 +80,52 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD23F&height=3&section=header" width="70%" />
 </div>
 
+## `~ $ ./ringkasan`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanrasyidd&theme=tokyonight" alt="rincian kontribusi" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evanrasyidd&theme=tokyonight" alt="statistik ringkasan" width="44%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evanrasyidd&theme=tokyonight" alt="bahasa yang paling sering di-commit" width="44%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evanrasyidd&theme=tokyonight&utcOffset=7" alt="jam paling produktif" width="44%" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
+</div>
+
 ## `~ $ ls ~/arsenal`
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-1A1A2E?style=for-the-badge&logo=nextdotjs&logoColor=6A4C93)
-![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=2EC4B6)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A2E?style=for-the-badge&logo=typescript&logoColor=FFD23F)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1A1A2E?style=for-the-badge&logo=tailwindcss&logoColor=6A4C93)
-![Three.js](https://img.shields.io/badge/Three.js-1A1A2E?style=for-the-badge&logo=threedotjs&logoColor=6A4C93)
-![GSAP](https://img.shields.io/badge/GSAP-1A1A2E?style=for-the-badge&logo=greensock&logoColor=2EC4B6)
-![Flutter](https://img.shields.io/badge/Flutter-1A1A2E?style=for-the-badge&logo=flutter&logoColor=FFD23F)
-![Supabase](https://img.shields.io/badge/Supabase-1A1A2E?style=for-the-badge&logo=supabase&logoColor=6A4C93)
-![Vercel](https://img.shields.io/badge/Vercel-1A1A2E?style=for-the-badge&logo=vercel&logoColor=6A4C93)
-
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter,supabase,figma,vercel,git&theme=dark" />
 
 </div>
+
+<details>
+<summary><code>~ $ ./cek-skill --depth</code></summary>
+<br/>
+
+```
+  Next.js ....... [██████████████████░░] 90%
+  React .......... [█████████████████░░░] 85%
+  TypeScript ..... [█████████████████░░░] 85%
+  Tailwind ....... [████████████████████] 100%
+  Three.js ....... [██████████████░░░░░░] 70%
+  Flutter ........ [██████████████░░░░░░] 70%
+  Supabase ....... [█████████████░░░░░░░] 65%
+  Figma .......... [██████████████░░░░░░] 70%
+```
+
+</details>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6A4C93&height=3&section=header" width="70%" />
@@ -125,7 +152,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.gif" />
   <img alt="ular kontribusi" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
 </picture>
 
