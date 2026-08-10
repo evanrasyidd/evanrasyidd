@@ -1,47 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" font-family="Consolas, Menlo, 'Courier New', monospace">
-  <rect width="800" height="250" rx="16" fill="#1A1A2E" stroke="#2B2B45" stroke-width="2"/>
-  <path d="M0 40 H800 V16 A16 16 0 0 0 784 0 H16 A16 16 0 0 0 0 16 Z" fill="#232340"/>
-  <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
-  <circle cx="46" cy="20" r="6" fill="#FFBD2E"/>
-  <circle cx="68" cy="20" r="6" fill="#27C93F"/>
-  <text x="400" y="25" text-anchor="middle" font-size="14" fill="#6A4C93">evan@github — bash</text>
+  <rect width="800" height="250" fill="#1A1A2E"/>
 
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="74" font-size="15" fill="#2EC4B6">evan@github:~$</text>
-    <text x="180" y="74" font-size="15" fill="#E8E8E8">whoami</text>
+  <g opacity="0.15">
+    <circle cx="120" cy="60" r="90" fill="#2EC4B6"/>
+    <circle cx="700" cy="40" r="120" fill="#6A4C93"/>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="104" font-size="15" fill="#FFD23F">Evan Rasyid Ega Pratama</text>
-    <text x="252" y="104" font-size="15" fill="#E8E8E8">— Fullstack Engineer &amp; Creative Developer</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="5s" repeatCount="indefinite"/>
+    <ellipse cx="252" cy="220" rx="60" ry="8" fill="#000000" opacity="0.4"/>
+    <ellipse cx="252" cy="216" rx="46" ry="6" fill="#000000" opacity="0.25"/>
+    <polygon points="90,70 310,70 350,50 130,50" fill="#2B2B45"/>
+    <polygon points="310,70 350,50 350,175 310,195" fill="#232340"/>
+    <polygon points="90,70 130,50 130,175 90,195" fill="#2B2B45"/>
+    <rect x="90" y="70" width="220" height="125" rx="0" fill="#232340"/>
+    <rect x="90" y="70" width="220" height="20" fill="#2B2B45"/>
+    <circle cx="106" cy="80" r="4" fill="#FF5F56"/>
+    <circle cx="120" cy="80" r="4" fill="#FFBD2E"/>
+    <circle cx="134" cy="80" r="4" fill="#27C93F"/>
+    <text x="200" y="85" text-anchor="middle" font-size="11" fill="#8B8BAB">evan@github — bash</text>
+    <rect x="98" y="98" width="204" height="88" fill="#16162B"/>
+    <text x="106" y="114" font-size="11" fill="#2EC4B6">evan@github:~$</text>
+    <text x="184" y="114" font-size="11" fill="#E8E8E8">whoami</text>
+    <text x="106" y="130" font-size="11" fill="#FFD23F">Evan Rasyid Ega Pratama</text>
+    <text x="238" y="130" font-size="11" fill="#E8E8E8">— Fullstack Engineer &amp; Creative Dev</text>
+    <text x="106" y="146" font-size="11" fill="#2EC4B6">evan@github:~$</text>
+    <text x="184" y="146" font-size="11" fill="#E8E8E8">./build --stack 3d</text>
+    <text x="106" y="162" font-size="11" fill="#6A4C93">[✓] Next.js [✓] React [✓] TS [✓] Flutter</text>
+    <text x="106" y="178" font-size="11" fill="#2EC4B6">evan@github:~$</text>
+    <rect x="184" y="166" width="7" height="11" fill="#2EC4B6">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.4;0.45;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="134" font-size="15" fill="#2EC4B6">evan@github:~$</text>
-    <text x="180" y="134" font-size="15" fill="#E8E8E8">./status</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4s" begin="0.2s" repeatCount="indefinite"/>
+    <ellipse cx="490" cy="224" rx="42" ry="7" fill="#000000" opacity="0.4"/>
+    <polygon points="460,152 490,182 490,212 460,182" fill="#1E9C91"/>
+    <polygon points="490,182 520,152 520,182 490,212" fill="#3BD6C8"/>
+    <polygon points="460,152 490,122 520,152 490,182" fill="#7DEAE0"/>
+    <text x="490" y="157" text-anchor="middle" font-size="10" fill="#0E3A36" font-weight="bold">NEXT.JS</text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="164" font-size="15" fill="#E8E8E8">3 tabs open · coffee low · error merah</text>
-    <text x="332" y="164" font-size="15" fill="#FF5F56">= seru</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="4.6s" begin="0.9s" repeatCount="indefinite"/>
+    <ellipse cx="602" cy="224" rx="42" ry="7" fill="#000000" opacity="0.4"/>
+    <polygon points="572,152 602,182 602,212 572,182" fill="#50366E"/>
+    <polygon points="602,182 632,152 632,182 602,212" fill="#8060AC"/>
+    <polygon points="572,152 602,122 632,152 602,182" fill="#A98FD0"/>
+    <text x="602" y="157" text-anchor="middle" font-size="10" fill="#2A1A40" font-weight="bold">REACT</text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="194" font-size="15" fill="#2EC4B6">evan@github:~$</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.8s" begin="1.6s" repeatCount="indefinite"/>
+    <ellipse cx="714" cy="224" rx="42" ry="7" fill="#000000" opacity="0.4"/>
+    <polygon points="684,152 714,182 714,212 684,182" fill="#D6AC1E"/>
+    <polygon points="714,182 744,152 744,182 714,212" fill="#FFDF70"/>
+    <polygon points="684,152 714,122 744,152 714,182" fill="#FFE9A8"/>
+    <text x="714" y="157" text-anchor="middle" font-size="10" fill="#6B4E00" font-weight="bold">TS</text>
   </g>
 
-  <text x="180" y="194" font-size="15" fill="#2EC4B6" opacity="0">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1s" begin="3.9s" repeatCount="indefinite"/>
-    ▊
-  </text>
-
-  <line x1="28" x2="772" y1="222" y2="222" stroke="#2B2B45" stroke-width="1"/>
-  <circle cx="36" cy="236" r="3" fill="#2EC4B6"/>
-  <text x="46" y="240" font-size="12" fill="#6A4C93">online</text>
-  <text x="772" y="240" font-size="12" fill="#6A4C93" text-anchor="end">3 sesi · 1 error lucu</text>
+  <line x1="28" x2="772" y1="235" y2="235" stroke="#2B2B45" stroke-width="1"/>
+  <circle cx="36" cy="243" r="3" fill="#2EC4B6"/>
+  <text x="46" y="247" font-size="12" fill="#6A4C93">online — semua cube masih melayang</text>
+  <text x="772" y="247" font-size="12" fill="#6A4C93" text-anchor="end">3 sesi · 3 kubus · 0 bug fatal</text>
 </svg>
