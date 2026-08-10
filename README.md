@@ -10,7 +10,7 @@
 
 ---
 
-## `~ $ ps aux`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/ps-aux.svg" width="62%" /></div>
 
 ```
   PID   PROSES               MEMORI      STATUS
@@ -25,7 +25,7 @@
 
 ---
 
-## `~ $ neofetch`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/neofetch.svg" width="62%" /></div>
 
 ```
   ██████  __ __  _    _  ___    ____      _    _  ____  _
@@ -49,7 +49,7 @@
 
 ---
 
-## `~ $ cat ./about`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/about.svg" width="62%" /></div>
 
 Fullstack engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
 
@@ -65,7 +65,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 ---
 
-## `~ $ gh stats`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/gh-stats.svg" width="62%" /></div>
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 ---
 
-## `~ $ ./topografi`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/topografi.svg" width="62%" /></div>
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 ---
 
-## `~ $ git log --oneline`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/git-log.svg" width="62%" /></div>
 
 ```
 0f0f0f8 redesign README: warnet membership card theme   ← eksperimen gagal, balik ke terminal. jangan tanya
@@ -112,7 +112,7 @@ ed9a180 add interactive Q&A section and Spotify...
 
 ---
 
-## `~ $ cat ~/.bash_history`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/bash-history.svg" width="62%" /></div>
 
 ```
 sudo apt install kesabaran
@@ -126,7 +126,7 @@ kill -9 tidur
 
 ---
 
-## `~ $ ls ~/arsenal`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/arsenal.svg" width="62%" /></div>
 
 <div align="center">
 
@@ -153,7 +153,7 @@ kill -9 tidur
 
 ---
 
-## `~ $ cat ./papan-project`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/papan-project.svg" width="62%" /></div>
 
 | project | status | stack |
 |---|---|---|
@@ -163,7 +163,7 @@ kill -9 tidur
 
 ---
 
-## `~ $ ./lagu-lagi-muter`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/lagu-muter.svg" width="62%" /></div>
 
 <div align="center">
 
@@ -177,22 +177,19 @@ kill -9 tidur
 
 ---
 
-## `~ $ ./snake --play`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/snake.svg" width="62%" /></div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.gif" />
-  <img alt="ular kontribusi" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
-</picture>
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/snake-iso.svg" width="100%" />
 
 </div>
 
-<sub>digenerate otomatis tiap hari jam 00:00 UTC via GitHub Action — ularnya sempat 2x gagal warna, sekarang sehat.</sub>
+<sub>ular isometric custom — gelombang cahaya ngejar dari ekor ke kepala, lidahnya 2x kedip per detik. versi ASCII yang digenerate action masih hidup di .github/workflows.</sub>
 
 ---
 
-## `~ $ ./buka-bukaan`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/buka-bukaan.svg" width="62%" /></div>
 
 <details>
 <summary>kenapa profile pakai bahasa Indonesia?</summary>
@@ -236,7 +233,7 @@ eksperimen. udah dicap, udah disimpan, balik ke terminal. ada file-nya di git hi
 
 ---
 
-## `~ $ ssh evan@contact`
+<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/contact.svg" width="62%" /></div>
 
 <div align="center">
 
