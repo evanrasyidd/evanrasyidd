@@ -1,149 +1,183 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   WARNET E G A . N E T  —  24 JAM  —  LAN 100 MBPS             ║
-║   "download 2GB/menit , ngoding sampe lupa pulang"             ║
-║                                                                ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/header.svg" width="100%" />
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━ KARTU LANGGANAN TETAP ━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                         ┃
-┃   NO. KARTU  : EVN-0004-2                    [S T A M P]                ┃
-┃   NAMA       : Evan Rasyid Ega Pratama        ◄ CAP GILA NGODING         ┃
-┃   ALAMAT     : Depok, Jawa Barat              (agak luntur, maklum       ┃
-┃   PC FAVORIT : 12 (yang keyboardnya awet)      udah 2005)                ┃
-┃   PAKET      : Full Service, saldo gak ada habisnya                     ┃
-┃   PEKERJAAN  : bikin web & app yang ketauan bikinannya                   ┃
-┃   STATUS     : ONLINE — lagi nambah jam sewa                             ┃
-┃                                                                         ┃
-┃   * kartu ini sah dipake 24 jam, gak perlu tanda tangan basah           ┃
-┃     (tanda tangan operator udah digital, kayak lupa om)                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<br/>
 
-***harga sewa masih Rp 3.000/jam — inflasi belum masuk, kegedean malah rewel.***
+`sesi SIGABRT — semua proses jalan, tidur gak jalan.`
 
 </div>
 
 ---
 
-## STEMPEL BULANAN
+## `~ $ ps aux`
 
-Stempel otomatis tiap bulan dari admin — kalau bolong, berarti bulan itu emang lagi istirahat sah.
+```
+  PID   PROSES               MEMORI      STATUS
+  001   npm run dev          1.2 GB      ✓ online
+  002   spotify              800 MB      ✓ muter lagu
+  003   snake.yml (action)   0 B         ✓ jalan tiap tengah malam
+  004   stempel bulanan       0 B         ✓ nempel tiap bulan
+  005   tidur                 —           ✗ lagi rame project
+  006   ngabisin kopi         ∞           ✓ juara bertahan
+  007   error merah           warna asli  ✓ seru, bukan bug
+```
+
+---
+
+## `~ $ neofetch`
+
+```
+  ██████  __ __  _    _  ___    ____      _    _  ____  _
+  ██  ██  |  \  \| |  | ||   \  |  _ \    | |  | ||  _ \| |
+  ██  ██  | |\ \ | |  | || |\ \ | |_) |   | |__| || |_) | |
+  ██  ██  | |  \ | |  | || |/ / |  __/    |  __  ||  _ <| |
+  ██████  |_|  |_|\_/|_||___/  |_|        |_|  |_||_| \_\_|
+         evan@github
+         -----------
+         OS      : Indonesia Human v3.1 (Depok Edition)
+         Host    : Two hands + VS Code + kopi separuh
+         Kernel  : sabar 6.1.0 — modul: testing dari 2004
+         Uptime  : 20 tahun, masih on
+         Shell   : bash — merah = seru, diam = bahaya
+         Editor  : VS Code + 14 plugin nganggur
+         Memory  : 8 GB + imajinasi (tidak terpakai semua)
+         GPU     : Integrated + harapan
+         Stack   : Next.js · React · Three.js · Flutter
+         Status  : 3 tab open · coffee low · lokal jalan
+```
+
+---
+
+## `~ $ cat ./about`
+
+Fullstack engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
+
+Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
+
+```
+	while (kurang ngantuk) {
+	    curhat("kenapa ini gak jalan");
+	    baca_errornya("baca dulu coy");
+	    deploy("mudah-mudahan");
+	}
+```
+
+---
+
+## `~ $ gh stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=FFD23F&icon_color=2EC4B6&text_color=E8E8E8&border_radius=10" alt="statistik github" width="44%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=2EC4B6&point=FFD23F&area_color=6A4C93&area=true&hide_border=true&height=280&hide_title=true" alt="grafik aktivitas" width="92%" />
+
+</div>
+
+<sub>angka real-time dari GitHub — dihitung server, bukan dikarang. sisanya udah dipangkas biar nggak jadi dashboard.</sub>
+
+---
+
+## `~ $ ./topografi`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-night-green.svg" />
-  <img alt="papan stempel bulanan" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-season.svg" width="90%" />
+  <img alt="grafik kontribusi 3D" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-season.svg" width="90%" />
 </picture>
 
 </div>
 
-`> digenerate otomatis via GitHub Action — admin_tools/stempel.py`
+<sub>kontribusi digambar ulang tiap hari via GitHub Action — dipicu manual dari tab Actions kalau lagi mau.</sub>
+
+---
+
+## `~ $ git log --oneline`
+
+```
+0f0f0f8 redesign README: warnet membership card theme   ← eksperimen gagal, balik ke terminal. jangan tanya
+81f3216 update grafik kontribusi 3D
+d0e4acb update grafik kontribusi 3D
+69ec0fb fix snake colors: prefix hex with # ...         ← ular butuh 2x fix warna, sekarang bagus
+bc03789 fix snake gif: use exactly 5 dot colors ...
+5c67cba add animated snake gif, summary cards section...
+67fcdcf add custom animated terminal header SVG + 3D...
+f2b2a4c upgrade README: neofetch hero, stats, languages
+ed9a180 add interactive Q&A section and Spotify...
+```
+
+<sub>isi dari repo yang lagi lu buka ini — kalau beda sama yang di atas, tinggal `git pull` aja.</sub>
+
+---
+
+## `~ $ cat ~/.bash_history`
+
+```
+sudo apt install kesabaran
+npm install && npm uninstall (lagi, mintanya macam-macam)
+git commit -m "pokoknya jalan, udah"
+curl -s ide.baru | brain --filter=feasible
+:(){ :|:& };: (ketik, liat, nyesel, reboot)
+figlet "SEMANGAT" | lolcat
+kill -9 tidur
+```
+
+---
+
+## `~ $ ls ~/arsenal`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=FFD23F&icon_color=2EC4B6&text_color=E8E8E8&border_radius=10" alt="rekap sewa bulan ini" width="44%" />
-
-<sub>rekap sewa bulan ini — dihitung server, bukan ditebak operator.</sub>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter,supabase,figma,vercel,git&theme=dark" />
 
 </div>
 
+<details>
+<summary><code>~ $ ./cek-skill --depth</code></summary>
+<br/>
+
+```
+  Next.js ....... [██████████████████░░] 90%
+  React .......... [█████████████████░░░] 85%
+  TypeScript ..... [█████████████████░░░] 85%
+  Tailwind ....... [████████████████████] 100%
+  Three.js ....... [██████████████░░░░░░] 70%
+  Flutter ........ [██████████████░░░░░░] 70%
+  Supabase ....... [█████████████░░░░░░░] 65%
+  Figma .......... [██████████████░░░░░░] 70%
+```
+
+</details>
+
 ---
 
-## DAFTAR MENU RENTAL
+## `~ $ cat ./papan-project`
 
-| menu | harga/jam | catatan operator |
+| project | status | stack |
 |---|---|---|
-| Next.js + React + TypeScript | Rp 25.000 | paling sering dipesan, paruh waktu |
-| Tailwind CSS | Rp 15.000 | diskon: styling jangan sampe keliatan template |
-| Three.js / WebGL | Rp 30.000 | seru, tapi jangan lupa tutup tab |
-| Flutter (Dart) | Rp 25.000 | pipanya lagi dipindah ke rak Android |
-| Supabase + Vercel | Rp 20.000 | gratis kalau bawa project sendiri |
-| Figma | Rp 10.000 | dipake buat gambarin sebelum nyebur |
+| [invoicegua](https://github.com/evanrasyidd/invoicegua-mvp) | `migration` — lagi dipindah ke Android | React web → Flutter APK |
 
-`> buat request custom, mintain ke operator — kode kupon: GILA-NGODING-2026`
+<sub>slug repo beda dari tebakan? tinggal edit linknya — gua juga masih nunggu idenya nyampe sebelum nambah baris.</sub>
 
 ---
 
-## GAME DI RAK
-
-| judul | rak | bayar pake apa |
-|---|---|---|
-| [invoicegua](https://github.com/evanrasyidd/invoicegua-mvp) | lagi dipindah dari rak web ke rak Android (Flutter APK) | jam sewa + sabar |
-
-`> rak lain masih kosong — lagi nunggu idenya nyampe sebelum jam sewa abis`
-
----
-
-## PERATURAN WARNET
-
-<details>
-<summary>kenapa kartu langganan pakai Bahasa Indonesia?</summary>
-<br/>
-
-karena operatornya orang Indonesia. kartu bahasa Inggris udah rame di warnet sebelah.
-
-</details>
-
-<details>
-<summary>kenapa PC favorit nomor 12?</summary>
-<br/>
-
-keyboardnya paling awet diajak keras — lumayan buat ngetik ini semua.
-
-</details>
-
-<details>
-<summary>tutup tab orang lain boleh gak?</summary>
-<br/>
-
-boleh, asal itu tab error. gua aja naruh error merah di layar biar inget — tapi yang nyebelin justru error yang diam-diam, gak muncul pesannya.
-
-</details>
-
-<details>
-<summary>tips buat yang baru mulai nyewa?</summary>
-<br/>
-
-baca teks merah di layarnya dulu. kebanyakan error udah ngasih tau masalahnya — lu aja yang gak baca.
-
-</details>
-
-<details>
-<summary>jam sewa paling produktif kapan?</summary>
-<br/>
-
-pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap malam.
-
-</details>
-
----
-
-## SPEAKER WARNET
-
-Musik dari speaker 2.1 yang cuma kiri doang nyala — tapi tetep live dari Spotify.
+## `~ $ ./lagu-lagi-muter`
 
 <div align="center">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&cover_image=true&theme=default&show_offline=false&background_color=1A1A2E&bar_color=2EC4B6&border_radius=10&interchange=false&profanity=false&hide_remaster=false" alt="lagu yang lagi muter di speaker warnet" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&cover_image=true&theme=default&show_offline=false&background_color=1A1A2E&bar_color=2EC4B6&border_radius=10&interchange=false&profanity=false&hide_remaster=false" alt="lagu yang lagi diputar" />
 </a>
 
 </div>
 
-<sub>klik card-nya buat liat lagu lengkap — minta remote ke meja depan kalau mau ganti lagu.</sub>
+<sub>live dari Spotify — klik card-nya buat liat lagu lengkapnya. volume 70%, jangan matiin.</sub>
 
 ---
 
-## ULAR DI BAWAH MEJA
-
-Katanya cuma mitos, ternyata beneran ada.
+## `~ $ ./snake --play`
 
 <div align="center">
 
@@ -154,30 +188,72 @@ Katanya cuma mitos, ternyata beneran ada.
 
 </div>
 
-<sub>apsekturnya tiap tengah malam (jam 00:00 UTC) — makanya jangan cariin di jaringan, cariin di `.github/workflows/snake.yml`.</sub>
+<sub>digenerate otomatis tiap hari jam 00:00 UTC via GitHub Action — ularnya sempat 2x gagal warna, sekarang sehat.</sub>
 
 ---
 
-## MAU NAMBAH JAM SEWA?
+## `~ $ ./buka-bukaan`
 
-Telepon umum masih berfungsi — pilih nomornya:
+<details>
+<summary>kenapa profile pakai bahasa Indonesia?</summary>
+<br/>
 
-- **[GitHub](https://github.com/evanrasyidd)** — telepon umum 001, saldo penuh
-- **[Instagram](https://instagram.com/evanrasyidd)** — hp nokia punya operator
-- **[LinkedIn](https://www.linkedin.com/in/evanrasyidd)** — telepon kantor, angkatnya lebih sopan
-- **[egaxdev](https://egaxdev.vercel.app/)** — cuma ini yang 4G
+karena yang baca juga orang Indonesia. profile bahasa Inggris udah rame di mana-mana.
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│         TERIMA KASIH SUDAH NYEWA 24 JAM NONSTOP                │
-│                 jam operasional: kapanpun lu mau                │
-│                                                                │
-│    [ / / ]  DICAP GILA NGODING  [ / / ]                        │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+</details>
 
-<sub>Evan Rasyid Ega Pratama — kartu dibuat manual, bukan hasil print template.</sub>
+<details>
+<summary>error favorit apa?</summary>
+<br/>
 
+semua error merah itu seru. yang nyebelin justru yang diam-diam, nggak muncul pesannya.
+
+</details>
+
+<details>
+<summary>tips buat yang baru mulai ngoding?</summary>
+<br/>
+
+baca error-nya dulu. kebanyakan error udah ngasih tau masalahnya — lu aja yang gak baca.
+
+</details>
+
+<details>
+<summary>kapan paling produktif?</summary>
+<br/>
+
+pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint.
+
+</details>
+
+<details>
+<summary>tema warnet yang sempet muncul itu kenapa?</summary>
+<br/>
+
+eksperimen. udah dicap, udah disimpan, balik ke terminal. ada file-nya di git history kalau penasaran.
+
+</details>
+
+---
+
+## `~ $ ssh evan@contact`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFD23F)](https://github.com/evanrasyidd)
+[![Instagram](https://img.shields.io/badge/Instagram-1A1A2E?style=for-the-badge&logo=instagram&logoColor=6A4C93)](https://instagram.com/evanrasyidd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=2EC4B6)](https://www.linkedin.com/in/evanrasyidd)
+[![Website](https://img.shields.io/badge/egaxdev-1A1A2E?style=for-the-badge&logo=globe&logoColor=6A4C93)](https://egaxdev.vercel.app/)
+
+<br/>
+<sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template. gak ada typo yang sengaja, semua beneran.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub><code>evan@github:~$ logout</code></sub>
+<br/>
+<sub><code>█</code></sub>
 </div>
