@@ -12,48 +12,31 @@
 
 ## `~ $ ps aux`
 
-```
-  PID   PROSES               MEMORI      STATUS
-  001   npm run dev          1.2 GB      ✓ online
-  002   spotify              800 MB      ✓ muter lagu
-  003   snake.yml (action)   0 B         ✓ tiap tengah malam
-  004   stempel bulanan       0 B         ✓ nempel tiap bulan
-  005   tidur                 —           ✗ lagi rame project
-  006   ngabisin kopi         ∞           ✓ juara bertahan
-  007   error merah           warna asli  ✓ seru, bukan bug
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/ps-aux.svg" width="95%" />
+
+</div>
 
 ---
 
 ## `~ $ neofetch`
 
-```
-  ██████  __ __  _    _  ___    ____      _    _  ____  _
-  ██  ██  |  \  \| |  | ||   \  |  _ \    | |  | ||  _ \| |
-  ██  ██  | |\ \ | |  | || |\ \ | |_) |   | |__| || |_) | |
-  ██  ██  | |  \ | |  | || |/ / |  __/    |  __  ||  _ <| |
-  ██████  |_|  |_|\_/|_||___/  |_|        |_|  |_||_| \_\_|
-         evan@github
-         -----------
-         OS      : Indonesia Human v3.1 (Depok Edition)
-         Host    : Two hands + VS Code + kopi separuh
-         Kernel  : sabar 6.1.0 — modul: testing dari 2004
-         Uptime  : 20 tahun, masih on
-         Shell   : bash — merah = seru, diam = bahaya
-         Editor  : VS Code + 14 plugin nganggur
-         Memory  : 8 GB + imajinasi (tidak terpakai semua)
-         GPU     : Integrated + harapan
-         Stack   : Next.js · React · Three.js · Flutter
-         Status  : 3 tab open · coffee low · lokal jalan
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/neofetch.svg" width="95%" />
+
+</div>
 
 ---
 
 ## `~ $ cat ./about`
 
-Frontend engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
+<div align="center">
 
-Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/about.svg" width="95%" />
+
+</div>
 
 ---
 
@@ -90,17 +73,11 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 ## `~ $ git log --oneline`
 
-```
-0f0f0f8 redesign README: warnet membership card theme   ← eksperimen gagal, balik ke terminal. jangan tanya
-81f3216 update grafik kontribusi 3D
-d0e4acb update grafik kontribusi 3D
-69ec0fb fix snake colors: prefix hex with # ...         ← ular butuh 2x fix warna, sekarang bagus
-bc03789 fix snake gif: use exactly 5 dot colors ...
-5c67cba add animated snake gif, summary cards section...
-67fcdcf add custom animated terminal header SVG + 3D...
-f2b2a4c upgrade README: neofetch hero, stats, languages
-ed9a180 add interactive Q&A section and Spotify...
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/git-log.svg" width="95%" />
+
+</div>
 
 <sub>isi dari repo yang lagi lu buka ini — kalau beda sama yang di atas, tinggal `git pull` aja.</sub>
 
@@ -108,15 +85,11 @@ ed9a180 add interactive Q&A section and Spotify...
 
 ## `~ $ cat ~/.bash_history`
 
-```
-sudo apt install kesabaran
-npm install && npm uninstall (lagi, mintanya macam-macam)
-git commit -m "pokoknya jalan, udah"
-curl -s ide.baru | brain --filter=feasible
-:(){ :|:& };: (ketik, liat, nyesel, reboot)
-figlet "SEMANGAT" | lolcat
-kill -9 tidur
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/bash-history.svg" width="95%" />
+
+</div>
 
 ---
 
@@ -149,9 +122,11 @@ kill -9 tidur
 
 ## `~ $ cat ./papan-project`
 
-| project | status | stack |
-|---|---|---|
-| [invoicegua](https://github.com/evanrasyidd/invoicegua-mvp) | `migration` — lagi dipindah ke Android | React web → Flutter APK |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/papan-project.svg" width="95%" />
+
+</div>
 
 <sub>slug repo beda dari tebakan? tinggal edit linknya — gua juga masih nunggu idenya nyampe sebelum nambah baris.</sub>
 
