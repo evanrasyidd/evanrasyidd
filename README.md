@@ -4,19 +4,19 @@
 
 <br/>
 
-`sesi SIGABRT — semua proses jalan, tidur gak jalan.`
+`sesi terminal terakhir: 3 tab open · coffee low · error merah = seru`
 
 </div>
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/ps-aux.svg" width="62%" /></div>
+## `~ $ ps aux`
 
 ```
   PID   PROSES               MEMORI      STATUS
   001   npm run dev          1.2 GB      ✓ online
   002   spotify              800 MB      ✓ muter lagu
-  003   snake.yml (action)   0 B         ✓ jalan tiap tengah malam
+  003   snake.yml (action)   0 B         ✓ tiap tengah malam
   004   stempel bulanan       0 B         ✓ nempel tiap bulan
   005   tidur                 —           ✗ lagi rame project
   006   ngabisin kopi         ∞           ✓ juara bertahan
@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/neofetch.svg" width="62%" /></div>
+## `~ $ neofetch`
 
 ```
   ██████  __ __  _    _  ___    ____      _    _  ____  _
@@ -49,37 +49,31 @@
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/about.svg" width="62%" /></div>
+## `~ $ cat ./about`
 
 Fullstack engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
 
 Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
 
-```
-	while (kurang ngantuk) {
-	    curhat("kenapa ini gak jalan");
-	    baca_errornya("baca dulu coy");
-	    deploy("mudah-mudahan");
-	}
-```
-
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/gh-stats.svg" width="62%" /></div>
+## `~ $ gh stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evanrasyidd&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=FFD23F&icon_color=2EC4B6&text_color=E8E8E8&border_radius=10" alt="statistik github" width="44%" />
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/metrics-terminal.svg" alt="kartu neofetch live" width="62%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanrasyidd&bg_color=1A1A2E&color=E8E8E8&line=2EC4B6&point=FFD23F&area_color=6A4C93&area=true&hide_border=true&height=280&hide_title=true" alt="grafik aktivitas" width="92%" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=6A4C93&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" alt="streak kontribusi" width="44%" />
 
 </div>
 
-<sub>angka real-time dari GitHub — dihitung server, bukan dikarang. sisanya udah dipangkas biar nggak jadi dashboard.</sub>
+<sub>kartu neofetch di-update otomatis tiap hari via GitHub Action (`.github/workflows/metrics.yml`) — statistik beneran, bukan dikarang. streak dihitung real-time.</sub>
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/topografi.svg" width="62%" /></div>
+## `~ $ ./topografi`
 
 <div align="center">
 
@@ -94,7 +88,7 @@ Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti b
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/git-log.svg" width="62%" /></div>
+## `~ $ git log --oneline`
 
 ```
 0f0f0f8 redesign README: warnet membership card theme   ← eksperimen gagal, balik ke terminal. jangan tanya
@@ -112,7 +106,7 @@ ed9a180 add interactive Q&A section and Spotify...
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/bash-history.svg" width="62%" /></div>
+## `~ $ cat ~/.bash_history`
 
 ```
 sudo apt install kesabaran
@@ -126,7 +120,7 @@ kill -9 tidur
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/arsenal.svg" width="62%" /></div>
+## `~ $ ls ~/arsenal`
 
 <div align="center">
 
@@ -153,7 +147,7 @@ kill -9 tidur
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/papan-project.svg" width="62%" /></div>
+## `~ $ cat ./papan-project`
 
 | project | status | stack |
 |---|---|---|
@@ -163,7 +157,7 @@ kill -9 tidur
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/lagu-muter.svg" width="62%" /></div>
+## `~ $ ./lagu-lagi-muter`
 
 <div align="center">
 
@@ -177,19 +171,22 @@ kill -9 tidur
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/snake.svg" width="62%" /></div>
+## `~ $ ./snake --play`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/snake-iso.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.gif" />
+  <img alt="ular kontribusi" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
+</picture>
 
 </div>
 
-<sub>ular isometric custom — gelombang cahaya ngejar dari ekor ke kepala, lidahnya 2x kedip per detik. versi ASCII yang digenerate action masih hidup di .github/workflows.</sub>
+<sub>digenerate otomatis tiap hari jam 00:00 UTC via GitHub Action — ularnya sempat 2x gagal warna, sekarang sehat.</sub>
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/buka-bukaan.svg" width="62%" /></div>
+## `~ $ ./buka-bukaan`
 
 <details>
 <summary>kenapa profile pakai bahasa Indonesia?</summary>
@@ -224,16 +221,16 @@ pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint
 </details>
 
 <details>
-<summary>tema warnet yang sempet muncul itu kenapa?</summary>
+<summary>tema 3D yang sempet muncul itu kenapa?</summary>
 <br/>
 
-eksperimen. udah dicap, udah disimpan, balik ke terminal. ada file-nya di git history kalau penasaran.
+eksperimen. udah disimpan, balik ke terminal yang proper. ada di git history kalau penasaran.
 
 </details>
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/headers/contact.svg" width="62%" /></div>
+## `~ $ ssh evan@contact`
 
 <div align="center">
 
@@ -243,7 +240,7 @@ eksperimen. udah dicap, udah disimpan, balik ke terminal. ada file-nya di git hi
 [![Website](https://img.shields.io/badge/egaxdev-1A1A2E?style=for-the-badge&logo=globe&logoColor=6A4C93)](https://egaxdev.vercel.app/)
 
 <br/>
-<sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template. gak ada typo yang sengaja, semua beneran.</sub>
+<sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template.</sub>
 
 </div>
 
