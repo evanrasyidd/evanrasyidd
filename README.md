@@ -51,7 +51,7 @@
 
 ## `~ $ cat ./about`
 
-Fullstack engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
+Frontend engineer & creative developer dari Depok. Kerjaannya bikin website dan app yang nggak keliatan kayak template.
 
 Prinsip kerja: kalau desainnya keliatan bisa dibikin AI dalam 5 menit, berarti belum selesai.
 
