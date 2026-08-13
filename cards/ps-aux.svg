@@ -35,10 +35,11 @@
     <line x1="32" y1="52" x2="728" y2="52" stroke="#4A4A78" stroke-width="1.5" opacity="0.8"/>
 
     <text x="44" y="80" font-size="13" fill="#6A4C93">PID   PROSES                MEMORI       STATUS</text>
-    <text x="44" y="106" font-size="13" fill="#E8E8E8">001   npm run dev           1.2 GB       <tspan fill="#2EC4B6">✓ online</tspan></text>
-    <text x="44" y="132" font-size="13" fill="#E8E8E8">002   spotify               800 MB       <tspan fill="#2EC4B6">✓ muter lagu</tspan></text>
-    <text x="44" y="158" font-size="13" fill="#E8E8E8">003   snake.yml (action)    0 B          <tspan fill="#2EC4B6">✓ tiap tengah malam</tspan></text>
-    <text x="44" y="184" font-size="13" fill="#E8E8E8">004   stempel bulanan        0 B          <tspan fill="#2EC4B6">✓ nempel tiap bulan</tspan></text>
-    <text x="44" y="210" font-size="13" fill="#E8E8E8">005   tidur                  —            <tspan fill="#FFD23F">✗ lagi rame project</tspan></text>
+    <text x="44" y="106" font-size="13" fill="#E8E8E8">001   npm run dev           1.2 GB       <tspan fill="#2EC4B6">✓ aktif</tspan></text>
+    <text x="44" y="132" font-size="13" fill="#E8E8E8">002   spotify               800 MB       <tspan fill="#2EC4B6">✓ memutar lagu</tspan></text>
+    <text x="44" y="158" font-size="13" fill="#E8E8E8">003   snake.yml (action)    0 B          <tspan fill="#2EC4B6">✓ tengah malam</tspan></text>
+    <text x="44" y="184" font-size="13" fill="#E8E8E8">004   stempel bulanan        0 B          <tspan fill="#2EC4B6">✓ tiap bulan</tspan></text>
+    <text x="44" y="210" font-size="13" fill="#E8E8E8">005   tidur                  —            <tspan fill="#FFD23F">✗ sedang sibuk</tspan></text>
+    <text x="44" y="236" font-size="13" fill="#E8E8E8">006   kopi                   ∞            <tspan fill="#2EC4B6">✓ selalu tersedia</tspan></text>
   </g>
 </svg>

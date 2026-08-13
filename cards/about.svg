@@ -34,9 +34,10 @@
     <rect x="24" y="46" width="712" height="120" rx="14" fill="url(#bezel)"/>
     <line x1="32" y1="52" x2="728" y2="52" stroke="#4A4A78" stroke-width="1.5" opacity="0.8"/>
 
-    <text x="44" y="80" font-size="13" fill="#E8E8E8">Frontend engineer &amp; creative developer dari Depok.</text>
-    <text x="44" y="100" font-size="13" fill="#E8E8E8">Kerjaannya bikin website dan app yang nggak keliatan kayak template.</text>
-    <text x="44" y="128" font-size="13" fill="#6A4C93">prinsip: kalau desainnya keliatan bisa dibikin AI dalam 5 menit,</text>
-    <text x="44" y="148" font-size="13" fill="#6A4C93">berarti belum selesai.</text>
+    <text x="44" y="80" font-size="13" fill="#E8E8E8">Frontend engineer dan creative developer dari</text>
+    <text x="44" y="100" font-size="13" fill="#E8E8E8">Depok, Indonesia. Fokus pada pembuatan website</text>
+    <text x="44" y="120" font-size="13" fill="#E8E8E8">dan aplikasi yang tidak terlihat seperti template.</text>
+    <text x="44" y="148" font-size="13" fill="#6A4C93">Prinsip: jika sebuah desain terlihat bisa dibuat AI</text>
+    <text x="44" y="166" font-size="13" fill="#6A4C93">dalam lima menit, berarti pekerjaannya belum selesai.</text>
   </g>
 </svg>

@@ -4,7 +4,7 @@
 
 <br/>
 
-`sesi terminal terakhir: 3 tab open · coffee low · error merah = seru`
+`sesi terminal: 3 tab terbuka · kopi menipis · error merah = seru`
 
 </div>
 
@@ -52,7 +52,7 @@
 
 </div>
 
-<sub>kartu neofetch di-update otomatis tiap hari via GitHub Action (`.github/workflows/metrics.yml`) — statistik beneran, bukan dikarang. streak dihitung real-time.</sub>
+<sub>Kartu neofetch diperbarui otomatis setiap hari via GitHub Action (`.github/workflows/metrics.yml`). Streak dihitung real-time.</sub>
 
 ---
 
@@ -67,7 +67,7 @@
 
 </div>
 
-<sub>kontribusi digambar ulang tiap hari via GitHub Action — dipicu manual dari tab Actions kalau lagi mau.</sub>
+<sub>Kontribusi digambar ulang setiap hari via GitHub Action.</sub>
 
 ---
 
@@ -79,17 +79,7 @@
 
 </div>
 
-<sub>isi dari repo yang lagi lu buka ini — kalau beda sama yang di atas, tinggal `git pull` aja.</sub>
-
----
-
-## `~ $ cat ~/.bash_history`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/bash-history.svg" width="95%" />
-
-</div>
+<sub>Isi dari repo yang sedang Anda buka ini — jalankan `git pull` jika berbeda.</sub>
 
 ---
 
@@ -99,24 +89,11 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter,supabase,figma,vercel,git&theme=dark" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/arsenal.svg" width="95%" />
+
 </div>
-
-<details>
-<summary><code>~ $ ./cek-skill --depth</code></summary>
-<br/>
-
-```
-  Next.js ....... [██████████████████░░] 90%
-  React .......... [█████████████████░░░] 85%
-  TypeScript ..... [█████████████████░░░] 85%
-  Tailwind ....... [████████████████████] 100%
-  Three.js ....... [██████████████░░░░░░] 70%
-  Flutter ........ [██████████████░░░░░░] 70%
-  Supabase ....... [█████████████░░░░░░░] 65%
-  Figma .......... [██████████████░░░░░░] 70%
-```
-
-</details>
 
 ---
 
@@ -128,7 +105,7 @@
 
 </div>
 
-<sub>slug repo beda dari tebakan? tinggal edit linknya — gua juga masih nunggu idenya nyampe sebelum nambah baris.</sub>
+<sub>Slug repo berbeda dari perkiraan? Cukup edit tautannya.</sub>
 
 ---
 
@@ -137,12 +114,12 @@
 <div align="center">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&cover_image=true&theme=default&show_offline=false&background_color=1A1A2E&bar_color=2EC4B6&border_radius=10&interchange=false&profanity=false&hide_remaster=false" alt="lagu yang lagi diputar" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&cover_image=true&theme=default&show_offline=false&background_color=1A1A2E&bar_color=2EC4B6&border_radius=10&interchange=false&profanity=false&hide_remaster=false" alt="lagu yang sedang diputar" />
 </a>
 
 </div>
 
-<sub>live dari Spotify — klik card-nya buat liat lagu lengkapnya. volume 70%, jangan matiin.</sub>
+<sub>Live dari Spotify — klik kartu untuk melihat detail lagu.</sub>
 
 ---
 
@@ -157,51 +134,17 @@
 
 </div>
 
-<sub>digenerate otomatis tiap hari jam 00:00 UTC via GitHub Action — ularnya sempat 2x gagal warna, sekarang sehat.</sub>
+<sub>Digenerate otomatis setiap hari pukul 00:00 UTC via GitHub Action.</sub>
 
 ---
 
 ## `~ $ ./buka-bukaan`
 
-<details>
-<summary>kenapa profile pakai bahasa Indonesia?</summary>
-<br/>
+<div align="center">
 
-karena yang baca juga orang Indonesia. profile bahasa Inggris udah rame di mana-mana.
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/buka-bukaan.svg" width="95%" />
 
-</details>
-
-<details>
-<summary>error favorit apa?</summary>
-<br/>
-
-semua error merah itu seru. yang nyebelin justru yang diam-diam, nggak muncul pesannya.
-
-</details>
-
-<details>
-<summary>tips buat yang baru mulai ngoding?</summary>
-<br/>
-
-baca error-nya dulu. kebanyakan error udah ngasih tau masalahnya — lu aja yang gak baca.
-
-</details>
-
-<details>
-<summary>kapan paling produktif?</summary>
-<br/>
-
-pas kode jalan pertama kali tanpa perlu ngedit. momen langka, diburu tiap sprint.
-
-</details>
-
-<details>
-<summary>tema 3D yang sempet muncul itu kenapa?</summary>
-<br/>
-
-eksperimen. udah disimpan, balik ke terminal yang proper. ada di git history kalau penasaran.
-
-</details>
+</div>
 
 ---
 
@@ -209,13 +152,7 @@ eksperimen. udah disimpan, balik ke terminal yang proper. ada di git history kal
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FFD23F)](https://github.com/evanrasyidd)
-[![Instagram](https://img.shields.io/badge/Instagram-1A1A2E?style=for-the-badge&logo=instagram&logoColor=6A4C93)](https://instagram.com/evanrasyidd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=2EC4B6)](https://www.linkedin.com/in/evanrasyidd)
-[![Website](https://img.shields.io/badge/egaxdev-1A1A2E?style=for-the-badge&logo=globe&logoColor=6A4C93)](https://egaxdev.vercel.app/)
-
-<br/>
-<sub>Evan Rasyid Ega Pratama — dibikin manual, bukan hasil template.</sub>
+<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/contact.svg" width="95%" />
 
 </div>
 

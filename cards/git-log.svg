@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="Consolas, Menlo, 'Courier New', monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="Consolas, Menlo, 'Courier New', monospace">
   <defs>
     <linearGradient id="faceTop" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#3D3D66"/><stop offset="1" stop-color="#2B2B45"/>
@@ -20,31 +20,29 @@
     </filter>
   </defs>
 
-  <rect width="760" height="320" fill="#1A1A2E"/>
+  <rect width="760" height="300" fill="#1A1A2E"/>
   <circle cx="640" cy="150" r="160" fill="url(#glowTeal)"/>
 
   <g filter="url(#soft)">
-    <ellipse cx="380" cy="292" rx="330" ry="16" fill="#000000" opacity="0.4"/>
+    <ellipse cx="380" cy="272" rx="330" ry="16" fill="#000000" opacity="0.4"/>
   </g>
 
   <g>
     <polygon points="24,46 736,46 760,30 48,30" fill="url(#faceTop)"/>
-    <polygon points="736,46 760,30 760,246 736,246" fill="url(#faceRight)"/>
-    <polygon points="24,46 48,30 48,246 24,246" fill="url(#faceLeft)"/>
-    <rect x="24" y="46" width="712" height="200" rx="14" fill="url(#bezel)"/>
+    <polygon points="736,46 760,30 760,226 736,226" fill="url(#faceRight)"/>
+    <polygon points="24,46 48,30 48,226 24,226" fill="url(#faceLeft)"/>
+    <rect x="24" y="46" width="712" height="180" rx="14" fill="url(#bezel)"/>
     <line x1="32" y1="52" x2="728" y2="52" stroke="#4A4A78" stroke-width="1.5" opacity="0.8"/>
 
-    <text x="44" y="80" font-size="13" fill="#FFD23F">0f0f0f8</text>
-    <text x="140" y="80" font-size="13" fill="#E8E8E8">redesign README: warnet membership card theme</text>
-    <text x="44" y="100" font-size="13" fill="#6A4C93">     ← eksperimen gagal, balik ke terminal. jangan tanya</text>
-    <text x="44" y="128" font-size="13" fill="#FFD23F">81f3216</text>
-    <text x="140" y="128" font-size="13" fill="#E8E8E8">update grafik kontribusi 3D</text>
-    <text x="44" y="156" font-size="13" fill="#FFD23F">d0e4acb</text>
-    <text x="140" y="156" font-size="13" fill="#E8E8E8">update grafik kontribusi 3D</text>
-    <text x="44" y="184" font-size="13" fill="#FFD23F">69ec0fb</text>
-    <text x="140" y="184" font-size="13" fill="#E8E8E8">fix snake colors: prefix hex with # ...</text>
-    <text x="44" y="204" font-size="13" fill="#6A4C93">     ← ular butuh 2x fix warna, sekarang bagus</text>
-    <text x="44" y="232" font-size="13" fill="#FFD23F">5c67cba</text>
-    <text x="140" y="232" font-size="13" fill="#E8E8E8">add animated snake gif, summary cards, ASCII bars</text>
+    <text x="44" y="80" font-size="13" fill="#FFD23F">8cf9d0d</text>
+    <text x="140" y="80" font-size="13" fill="#E8E8E8">convert text sections to 3D depth cards</text>
+    <text x="44" y="108" font-size="13" fill="#FFD23F">4ed27eb</text>
+    <text x="140" y="108" font-size="13" fill="#E8E8E8">fix role to frontend engineer, upgrade header</text>
+    <text x="44" y="136" font-size="13" fill="#FFD23F">01dd1d1</text>
+    <text x="140" y="136" font-size="13" fill="#E8E8E8">header: proper 3D perspective terminal</text>
+    <text x="44" y="164" font-size="13" fill="#FFD23F">9cbb170</text>
+    <text x="140" y="164" font-size="13" fill="#E8E8E8">use GITHUB_TOKEN for metrics workflow</text>
+    <text x="44" y="192" font-size="13" fill="#FFD23F">ec333a1</text>
+    <text x="140" y="192" font-size="13" fill="#E8E8E8">restore proper terminal theme with streak</text>
   </g>
 </svg>
