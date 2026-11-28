@@ -1,165 +1,45 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/header.svg" width="100%" />
+<img src="assets/header.svg" alt="Evan Rasyid Ega Pratama, frontend engineer from Depok, open for client work through EGAXDEV Studios" width="100%">
 
-<br/>
+<br><br>
 
-`sesi terminal: 3 tab terbuka · kopi menipis · error merah = seru`
+Self-taught frontend developer from Depok.<br>
+I build portfolios, e-commerce and agency sites<br>
+with React, TypeScript, Tailwind and GSAP.
 
-</div>
+<br>
 
----
+<img src="assets/label-projects.svg" alt="Projects" height="44">
 
-## `~ $ ps aux`
+<br>
 
-<div align="center">
+<a href="https://github.com/evanrasyidd/egax-studios-mvp"><img src="assets/project-1.svg" alt="EGAX Studios: fashion store styled as an archive catalogue, with admin login" width="32%"></a>
+<a href="https://github.com/evanrasyidd/glazzy-mvp"><img src="assets/project-2.svg" alt="GLAZZY: donut and drink ordering app with storefront, POS and admin panel" width="32%"></a>
+<a href="https://github.com/evanrasyidd/scoopzz-mvp"><img src="assets/project-3.svg" alt="SCOOPZZ: ice cream site with a topping builder, POS and admin" width="32%"></a>
+<br>
+<a href="https://github.com/evanrasyidd/egalog"><img src="assets/project-4.svg" alt="EgaLog HR: internal HR system with geofenced attendance, leave and payroll" width="32%"></a>
+<a href="https://github.com/evanrasyidd/invoicegua-mvp"><img src="assets/project-5.svg" alt="InvoiceGua: invoicing PWA for freelancers with PDF, WhatsApp and offline support" width="32%"></a>
+<a href="https://github.com/evanrasyidd/rasga-qr-order-mvp"><img src="assets/project-6.svg" alt="RASGA QR Order: QR table ordering PWA for a cafe with kitchen dashboard and POS" width="32%"></a>
 
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/ps-aux.svg" width="95%" />
+<br><br>
 
-</div>
+<img src="assets/label-stack.svg" alt="Stack" height="44">
 
----
+<br>
 
-## `~ $ neofetch`
+<img src="assets/stack.svg" alt="Stack: React, TypeScript, Tailwind, GSAP, Framer Motion, Zustand, Zod, Vercel" width="100%">
 
-<div align="center">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/neofetch.svg" width="95%" />
+<img src="assets/label-contact.svg" alt="Say hi" height="44">
 
-</div>
+<br>
 
----
+[Instagram @evanrasyidd](https://instagram.com/evanrasyidd) &nbsp;/&nbsp; DMs open for projects
 
-## `~ $ cat ./about`
+<br><br>
 
-<div align="center">
+<sub>Handmade by EGAXDEV Studios. No widgets, no snake.</sub>
 
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/about.svg" width="95%" />
-
-</div>
-
----
-
-## `~ $ gh stats`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/metrics-terminal.svg" alt="kartu neofetch live" width="62%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=evanrasyidd&hide_border=true&background=1A1A2E&ring=FFD23F&fire=6A4C93&currStreakLabel=2EC4B6&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A4C93" alt="streak kontribusi" width="44%" />
-
-</div>
-
-<sub>Kartu neofetch diperbarui otomatis setiap hari via GitHub Action (`.github/workflows/metrics.yml`). Streak dihitung real-time.</sub>
-
----
-
-## `~ $ ./topografi`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-night-green.svg" />
-  <img alt="grafik kontribusi 3D" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/profile-3d-contrib/profile-season.svg" width="90%" />
-</picture>
-
-</div>
-
-<sub>Kontribusi digambar ulang setiap hari via GitHub Action.</sub>
-
----
-
-## `~ $ git log --oneline`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/git-log.svg" width="95%" />
-
-</div>
-
-<sub>Isi dari repo yang sedang Anda buka ini — jalankan `git pull` jika berbeda.</sub>
-
----
-
-## `~ $ ls ~/arsenal`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter,supabase,figma,vercel,git&theme=dark" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/arsenal.svg" width="95%" />
-
-</div>
-
----
-
-## `~ $ cat ./papan-project`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/papan-project.svg" width="95%" />
-
-</div>
-
-<sub>Slug repo berbeda dari perkiraan? Cukup edit tautannya.</sub>
-
----
-
-## `~ $ ./lagu-lagi-muter`
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3jgzaqiis2kzwitu2wsa5gmd4&cover_image=true&theme=default&show_offline=false&background_color=1A1A2E&bar_color=2EC4B6&border_radius=10&interchange=false&profanity=false&hide_remaster=false" alt="lagu yang sedang diputar" />
-</a>
-
-</div>
-
-<sub>Live dari Spotify — klik kartu untuk melihat detail lagu.</sub>
-
----
-
-## `~ $ ./snake --play`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.gif" />
-  <img alt="ular kontribusi" src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/output/snake.svg" width="90%" />
-</picture>
-
-</div>
-
-<sub>Digenerate otomatis setiap hari pukul 00:00 UTC via GitHub Action.</sub>
-
----
-
-## `~ $ ./buka-bukaan`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/buka-bukaan.svg" width="95%" />
-
-</div>
-
----
-
-## `~ $ ssh evan@contact`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/evanrasyidd/evanrasyidd/main/cards/contact.svg" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub><code>evan@github:~$ logout</code></sub>
-<br/>
-<sub><code>█</code></sub>
 </div>
